@@ -1,0 +1,13 @@
+body{
+    
+    flex-wrap: wrap;
+}
+.mydiv{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    border: 2px solid black;
+}
+.changer{
+    background-color: red ;
+}
